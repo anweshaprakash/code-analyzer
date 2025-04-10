@@ -28,7 +28,7 @@ This is a lightweight CLI-based code analysis tool that utilizes Groq's `qwen-2.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/code-analyzer-groq.git
+git clone https://github.com/anweshaprakash/code-analyzer-groq.git
 cd code-analyzer-groq
 ```
 
