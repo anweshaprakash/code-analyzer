@@ -28,8 +28,8 @@ This is a lightweight CLI-based code analysis tool that utilizes Groq's `qwen-2.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anweshaprakash/code-analyzer-groq.git
-cd code-analyzer-groq
+git clone https://github.com/anweshaprakash/code-analyzer.git
+cd code-analyzer
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
